@@ -31,5 +31,8 @@
     <!-- Doze: when to pulse after a buzzworthy notification arrives -->
     <string name="doze_pulse_schedule" translatable="false">5s,15s,30s,60s</string>
 
+    <!-- Pulse stroke width -->
+    <dimen name="config_pulsePathStrokeWidth">17dp</dimen>
+
 </resources>
 
